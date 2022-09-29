@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableExample", "DisposableExample\DisposableExample.csproj", "{D40531B2-8594-483F-A562-745BE627B8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposableDemoProject", "DisposableDemoProject\DisposableDemoProject.csproj", "{87E71108-0E18-4571-8E47-359197C8EB65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40531B2-8594-483F-A562-745BE627B8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40531B2-8594-483F-A562-745BE627B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40531B2-8594-483F-A562-745BE627B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40531B2-8594-483F-A562-745BE627B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E71108-0E18-4571-8E47-359197C8EB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E71108-0E18-4571-8E47-359197C8EB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E71108-0E18-4571-8E47-359197C8EB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E71108-0E18-4571-8E47-359197C8EB65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

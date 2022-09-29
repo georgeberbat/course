@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <PackageId>DisposableExample</PackageId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Dapper" Version="2.0.123" />
+        <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+        <PackageReference Include="Npgsql" Version="6.0.6" />
+        <PackageReference Include="System.Collections" Version="4.3.0" />
+        <PackageReference Include="System.Configuration.ConfigurationManager" Version="6.0.0" />
+        <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+        <PackageReference Include="System.Linq" Version="4.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="..\docker-compose.yml">
+            <Link>docker-compose.yml</Link>
+        </Content>
+    </ItemGroup>
+
+</Project>

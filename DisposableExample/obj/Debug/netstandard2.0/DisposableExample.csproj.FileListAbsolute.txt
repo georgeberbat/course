@@ -1,0 +1,10 @@
+C:\Users\invar\RiderProjects\Courses\DisposableExample\bin\Debug\netstandard2.0\DisposableExample.deps.json
+C:\Users\invar\RiderProjects\Courses\DisposableExample\bin\Debug\netstandard2.0\DisposableExample.dll
+C:\Users\invar\RiderProjects\Courses\DisposableExample\bin\Debug\netstandard2.0\DisposableExample.pdb
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.csproj.AssemblyReference.cache
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.AssemblyInfoInputs.cache
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.AssemblyInfo.cs
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.csproj.CoreCompileInputs.cache
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.dll
+C:\Users\invar\RiderProjects\Courses\DisposableExample\obj\Debug\netstandard2.0\DisposableExample.pdb
